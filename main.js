@@ -54,3 +54,7 @@ dt.onclick = () => {
     tentang.innerHTML = "Tentang saya"
     
   }
+//pindah halaman website
+function save() {
+    window.location = "/from/index.html";
+}
