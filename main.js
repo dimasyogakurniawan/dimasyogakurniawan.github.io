@@ -55,6 +55,3 @@ dt.onclick = () => {
     
   }
 //pindah halaman website
-function save() {
-    window.location = "/from/index.html";
-}
